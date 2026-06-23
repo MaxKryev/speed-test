@@ -1,0 +1,15 @@
+[project]
+name = "speed-test"
+version = "1.0.0"
+description = ""
+authors = [
+    {name = "Максим",email = "kraev-1993@list.ru"}
+]
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
